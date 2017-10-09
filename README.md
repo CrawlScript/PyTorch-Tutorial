@@ -16,3 +16,8 @@ PyTorch中文入门教程
 + 【06】[NLP-Word Embedding快速理解与PyTorch实现: 图文+代码](http://py-torch.info/archives/63)
 + 【07】[NLP-PyTorch基于字符级RNN的姓名分类](http://py-torch.info/archives/66)
 + 【08】[NLP-PyTorch: 用字符级RNN生成名字](http://py-torch.info/archives/73)
+
+## PyTorch示例:
++ [Linear Regression](https://github.com/pytorch/examples/tree/master/regression)
++ [CNN](https://github.com/pytorch/examples/tree/master/mnist)
++ [DCGAN](https://github.com/pytorch/examples/tree/master/dcgan)
