@@ -1,6 +1,12 @@
 # PyTorch-Tutorial
 PyTorch中文入门教程
 
+## PyTorch官方资源:
+
++ [PyTorch官方网站](http://pytorch.org/)
++ [PyTorch官方安装命令生成器](http://pytorch.org/)
+
+## 专知-PyTorch手把手深度学习教程系列:
 
 + 【01】[一文带你入门优雅的PyTorch](http://py-torch.info/archives/6)
 + 【02】[CNN快速理解与PyTorch实现: 图文+代码](http://py-torch.info/archives/30)
